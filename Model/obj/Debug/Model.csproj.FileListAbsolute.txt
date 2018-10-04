@@ -1,0 +1,7 @@
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\Model\bin\Debug\Model.dll
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\Model\bin\Debug\Model.pdb
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\Model\bin\Debug\Helper.dll
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\Model\bin\Debug\Helper.pdb
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\Model\obj\Debug\Model.dll
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\Model\obj\Debug\Model.pdb

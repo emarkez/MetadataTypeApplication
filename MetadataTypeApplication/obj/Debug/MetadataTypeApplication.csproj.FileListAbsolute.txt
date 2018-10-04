@@ -1,0 +1,10 @@
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\bin\Debug\MetadataTypeApplication.exe.config
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\bin\Debug\MetadataTypeApplication.exe
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\bin\Debug\MetadataTypeApplication.pdb
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\obj\Debug\MetadataTypeApplication.csprojResolveAssemblyReference.cache
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\obj\Debug\MetadataTypeApplication.exe
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\obj\Debug\MetadataTypeApplication.pdb
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\bin\Debug\Helper.dll
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\bin\Debug\Model.dll
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\bin\Debug\Helper.pdb
+c:\users\edu\documents\visual studio 2013\Projects\MetadataTypeApplication\MetadataTypeApplication\bin\Debug\Model.pdb
